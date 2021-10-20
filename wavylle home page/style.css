@@ -1,0 +1,111 @@
+/*Author: Abhirath Dubey
+Date: 20-10-2021*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+  font-weight: 800;
+}
+
+body {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.previewbutton {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  margin-top: 20px;
+  padding: 5px;
+  border-radius: 15px;
+  background-color: white;
+  border: white;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  margin-bottom: -40px;
+}
+
+.guidebutton {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.recommendbutton {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  text-align: center;
+  color: white;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.slider {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+.recentuploadsimg1 {
+  float: left;
+  width: 30%;
+  cursor: pointer;
+  margin-left: 200px;
+  margin-left: 375px;
+  margin-right: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+
+.recentuploadsimg2 {
+  display: block;
+  float: left;
+  width: 30%;
+  cursor: pointer;
+  margin-right: 275px;
+  margin-top: 50px;
+  margin-left: 10px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+
+.guide1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.guide2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.guide3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
